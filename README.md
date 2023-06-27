@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naomi-clyde51
-- 👀 I’m interested in programming and creating fanart
-- 🌱 I’m currently learning Python and Web development
-- 💞️ I’m looking to collaborate on nothing at this time - still need to learn more
+- 👀 I’m interested in programming and creating 2D graphic art
+- 🌱 I’m currently learning Front-End Web development
+- 💞️ I’m looking to collaborate at this time
 - 📫 How to reach me ... naomi.clyde51@gmail.com or Discord !
 
 <!---
